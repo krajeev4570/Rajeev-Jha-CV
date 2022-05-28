@@ -1,0 +1,73 @@
+* {
+  padding: 0;
+  margin: 5px;
+}
+
+.top {
+  display: flex;
+}
+.top img {
+  border-radius: 150px;
+  padding: 10px;
+}
+
+span {
+  text-align: left;
+  margin-left: 20px;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.top h3 {
+  font-size: 20px;
+}
+
+.top h4 {
+  color: black;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.synopsis {
+  margin-top: 20px;
+}
+.synopsis h3 {
+  margin-bottom: 8px;
+}
+
+.qualification {
+  margin-top: 20px;
+}
+.qualification h3 {
+  margin-bottom: 8px;
+}
+
+.experiences {
+  margin-top: 20px;
+}
+
+.experiences h3 {
+  margin-bottom: 8px;
+}
+
+.experiences a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.internship {
+  margin-top: 20px;
+}
+
+.software_skill {
+  margin-top: 20px;
+}
+
+.personal_details {
+  margin-top: 20px;
+}
+
+.declaration {
+  margin-top: 20px;
+}
